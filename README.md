@@ -35,8 +35,9 @@ typography-morocco/
 ## 🚀 How to Run
 - Open `index.html` directly in a browser, or serve locally with any static server.  
 - For GitHub Pages: keep `index.html` at the repo root and enable **Settings → Pages → Deploy from branch**.
-
-```📄 index.html📄
+---
+##📄 index.html📄
+```http
 <!DOCTYPE html>
 <html>
 <head>
@@ -159,7 +160,8 @@ typography-morocco/
 </html>
 ```
 ---
-```🎨 styles style.css
+##🎨 styles style.css
+```css
 @font-face {
   font-family: "Croissant One";
   src: url('./fonts/CroissantOne-Regular.ttf') format('truetype');
