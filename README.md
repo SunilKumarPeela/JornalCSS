@@ -37,7 +37,7 @@ typography-morocco/
 - For GitHub Pages: keep `index.html` at the repo root and enable **Settings → Pages → Deploy from branch**.
 ---
 ##📄 index.html📄
-```http
+```html
 <!DOCTYPE html>
 <html>
 <head>
